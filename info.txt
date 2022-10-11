@@ -1,5 +1,3 @@
-hello
-u
-k
-i
-harsha
+git 
+hub
+bash
